@@ -55,6 +55,6 @@ Or give it a specific task to check against:
 | Medium | Causes hesitation or an extra step, but the user recovers |
 | Low | Minor friction or polish, unlikely to affect task success |
 
-## A note on honest framing
+## Note
 
 Label this output as an AI-assisted heuristic review wherever you use it, in a case study, a client deliverable, or internal documentation. Don't present it as user testing or real-user validation, it's expert inspection, a legitimate but different method.
