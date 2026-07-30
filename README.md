@@ -32,7 +32,7 @@ If you give it specific tasks or user scenarios up front, it'll fold those into 
 **Claude Code / other CLI agents**
 
 ```bash
-npx skills add YourUsername/heuristic-eval
+npx skills add IpshitaChatterjee/heuristic-eval
 ```
 
 Or drop the folder manually into `~/.claude/skills/` (personal) or `.claude/skills/` (project-level).
